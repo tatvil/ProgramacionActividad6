@@ -3,7 +3,7 @@ Para la gestión de un centro educativo, un programa necesita contemplar las ent
 
     Crea la estructura de clases que se corresponda con el siguiente diagrama:
 
-ad6_1.png
+<img src="ad6_1.png">
 
     La clase Persona será abstracta.
     Todas las propiedades serán privadas y accesibles mediante métodos get/set.
@@ -36,5 +36,5 @@ ad6_1.png
 
 Ejemplo de ejecución:
 
-AD6_2.png
+<img src="AD6_2.png">
 
